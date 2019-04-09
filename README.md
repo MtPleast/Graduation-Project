@@ -1,4 +1,4 @@
-Lithium Battery Management System
+# Lithium Battery Management System
 ==
 计划使用平台：MatLab
 --
