@@ -1,5 +1,4 @@
 # Lithium Battery Management System
-==
 计划使用平台：MatLab
 --
 第一步：选定模型（等效电路模型）-thenevin
